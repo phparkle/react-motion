@@ -22,5 +22,29 @@
         "code": 7588
       }
     }
+  },
+  "react-motion.js": {
+    "bundled": 87039,
+    "minified": 26304,
+    "gzipped": 7679
+  },
+  "react-motion.min.js": {
+    "bundled": 57610,
+    "minified": 18512,
+    "gzipped": 5393
+  },
+  "react-motion.esm.js": {
+    "bundled": 400,
+    "minified": 359,
+    "gzipped": 142,
+    "treeshaked": {
+      "rollup": {
+        "code": 169,
+        "import_statements": 169
+      },
+      "webpack": {
+        "code": 1351
+      }
+    }
   }
 }
